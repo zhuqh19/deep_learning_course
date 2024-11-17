@@ -1,0 +1,3 @@
+https://github.com/datawhalechina/llms-from-scratch-cn
+
+非常好的大语言模型教程，只需要python基础就行，从零开始构建大语言模型
